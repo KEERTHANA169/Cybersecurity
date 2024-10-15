@@ -4,7 +4,7 @@
 3.	SERVICES
 4.	FIREWALL YESOR NO
 5.	PERFORM SCRIPT SCAN ON SANE TARGET
-6.	
+
 **COMMAND**
 ```
 sudo nmap -sS -O -sV --script firewall-bypass scanme.nmap.org --top-ports 100 --reason -T4
