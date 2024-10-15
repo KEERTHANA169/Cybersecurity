@@ -62,7 +62,9 @@ OS and Service detection performed. Please report any incorrect results at https
 Nmap done: 1 IP address (1 host up) scanned in 33.99 seconds
 
 
+
 **Command Breakdown**
+
 **sudo:**
 
 This command runs Nmap with superuser privileges, which is often required for certain types of scans (like SYN scans). Without sudo, you might receive permission errors or limited scan results.
