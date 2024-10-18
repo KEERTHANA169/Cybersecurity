@@ -39,4 +39,5 @@ To solve the lab:
 
 ## Output:
 Once logged in as Administrator, the lab should display as solved.
+![image](https://github.com/user-attachments/assets/241fa209-ffaf-4201-ad6e-db36ff7d87f6)
 
