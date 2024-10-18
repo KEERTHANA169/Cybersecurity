@@ -40,4 +40,7 @@ To solve the lab:
 ## Output:
 Once logged in as Administrator, the lab should display as solved.
 ![image](https://github.com/user-attachments/assets/241fa209-ffaf-4201-ad6e-db36ff7d87f6)
+![image](https://github.com/user-attachments/assets/dc634839-f26b-4da6-b53d-96c9f2a85e64)
+![image](https://github.com/user-attachments/assets/34e6080f-df47-4c23-b796-a928679c31ec)
+
 
