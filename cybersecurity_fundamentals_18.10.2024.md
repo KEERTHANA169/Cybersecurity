@@ -1,4 +1,3 @@
-```markdown
 # Cybersecurity Fundamentals
 
 ## 1. General Cybersecurity Knowledge
@@ -66,7 +65,7 @@
 1. **Initial Query**:
    ```sql
    SELECT * FROM users WHERE username = 'user_input' AND password = 'user_input';
-   ```
+
 2. **Attacker Input**:
    ```sql
    ' OR '1'='1
